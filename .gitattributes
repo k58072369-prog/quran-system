@@ -1,0 +1,2 @@
+quran-system.tar.gz filter=lfs diff=lfs merge=lfs -text
+quran-system.zip filter=lfs diff=lfs merge=lfs -text
