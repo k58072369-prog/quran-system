@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "La37rInmrbE_A9qWvFQbB"
+uri = "file://quran-system.tar.gz"
+type = "unspecified"
+title = "نظام إدارة الحلقات القرآنية - ملف مضغوط"
+
+[[outputs]]
+id = "A5E4tnFxKDvXfoW1XKalg"
+uri = "file://quran-system.zip"
+type = "unspecified"
+title = "نظام إدارة الحلقات القرآنية - ZIP"
